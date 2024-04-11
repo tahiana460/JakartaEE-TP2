@@ -20,7 +20,7 @@ public class Bean {
     private int nombre;
 
     public String afficher() {
-        return "affichage_3?nb=" + nombre + "&amp;faces-redirect=true";
+        return "affichage__1?nb=" + nombre + "&amp;faces-redirect=true";
     }
 
     public int getNombre() {
